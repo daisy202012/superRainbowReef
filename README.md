@@ -1,6 +1,7 @@
 # Super Rainbow Reef Game 
 
-Summary of game: Pop and katch must work together to smash through the blocks and collide against the biglegs to complete the level. 
+# Summary of game:
+Pop and katch must work together to smash through the blocks and collide against the biglegs to complete the level. 
 
 # How to Run:
 
